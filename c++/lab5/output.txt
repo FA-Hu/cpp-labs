@@ -1,0 +1,12 @@
+Start city is Moscow - (300, 300) 
+End city is Paris - (500, 600) 
+Distance between Moscow and Paris is : 360.555
+Start city is Moscow - (300, 300) 
+End city is London - (450, 450) 
+Distance between Moscow and London is : 212.132
+Start city is Piter - (100, 700) 
+End city is Paris - (500, 600) 
+Distance between Piter and Paris is : 412.311
+Start city is Moscow - (300, 300) 
+End city is London - (450, 450) 
+Distance between Moscow and London is : 212.132
